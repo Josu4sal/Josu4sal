@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Josue Espi
-- 👀 I’m interested in Computer science and sports
-- 🌱 I’m currently learning programming and cybersecurity
-- 💞️ I’m looking to collaborate on python challenges and proyects
-- ⚡ Fun fact: I enjoy hacking but I am afraid of beaing hacked 
+# 👋 Hi, I'm Josue Espi
 
-<!---
-Josu4sal/Josu4sal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about technology and constantly learning new things.
+
+## 👀 Interests
+
+- 💻 Computer Science
+- 🛡️ Cybersecurity
+- ⚽ Sports (especially football!)
+
+## 🌱 Currently Learning
+
+- Python 🐍
+- Ethical Hacking & Cybersecurity 🧠
+- LeetCode challenges to improve problem-solving
+
+## 💞️ Collaboration Goals
+
+- Contribute to Python-based challenges and mini-projects
+- Practice with others learning programming and infosec
+- Build simple tools that help people learn
+
+## ⚡ Fun Fact
+
+> I enjoy hacking... but I'm afraid of being hacked 😅
+
+## 📫 Contact
+
+- 📧 Email: salasespinozajostin@gmail.com
+- 🐍 LeetCode: [My Profile](https://leetcode.com/yourusername/)
+
